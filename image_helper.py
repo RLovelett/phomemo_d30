@@ -8,6 +8,7 @@ import math
 
 import PIL
 import PIL.Image
+import PIL.ImageOps
 
 
 def preprocess_image(src, width=96):
